@@ -1,0 +1,8 @@
+{
+  "name": "Copy of OmniHR - Multi-Client Time & Attendance",
+  "description": "A comprehensive HRMS for tracking attendance across multiple clients with GPS tagging, selfie verification, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
